@@ -146,8 +146,7 @@ The **four Yugas** form the fundamental building blocks of Hindu time. They repr
         
 
 ### 2.5 The Yuga Cycle Pattern
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Satya → Treta → Dwapara → Kali → Satya (cycle repeats)    ↑                                    ↓    └────────── Endless Repetition ──────┘   `
+Satya → Treta → Dwapara → Kali → Satya (cycle repeats)
 
 **Total Duration of One Complete Cycle**: 4,320,000 human years
 
@@ -338,9 +337,17 @@ Brahma's life is divided into **2 Parardhas**:
 
 ### 7.1 Our Cosmic Address
 
-We are currently located at:
+`We are currently located at:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Brahma's Life: 51st Year, 2nd Parardha      ↓  Shweta Varaha Kalpa (Current Day)      ↓  7th Manavantara (Vaivasvata)      ↓  28th Mahayuga      ↓  Kali Yuga (Current Age)   `
+Brahma's Life: 51st Year, 2nd Parardha
+    ↓
+Shweta Varaha Kalpa (Current Day)
+    ↓
+7th Manavantara (Vaivasvata)
+    ↓
+28th Mahayuga
+    ↓
+Kali Yuga (Current Age)`
 
 ### 7.2 Ritual Declaration (Sankalpa)
 
